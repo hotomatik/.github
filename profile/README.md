@@ -31,15 +31,13 @@ create database hotomatik_user;
 1. Add backend validation
 2. Add unit tests
 3. Add registration confirmation email sending
-4. Add UI registration confrimation
-5. Add backend registration confirmation
-6. Add registration confirmation welcome email sending
-7. Add backend login validation
-8. Add full name, birth date, and phone number in registration
-9. Add SMS sending
-10. Add OTP in login
-11. Add forgot password
-12. Add update profile
-13. Add logging
-14. Use spring native
+5. Add registration confirmation welcome email sending
+6. Add backend login validation
+7. Add full name, birth date, and phone number in registration
+8. Add SMS sending
+9. Add OTP in login
+10. Add forgot password
+11. Add update profile
+12. Add logging
+13. Use spring native
     

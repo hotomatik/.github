@@ -40,3 +40,6 @@ create database hotomatik_user;
 10. Add OTP in login
 11. Add forgot password
 12. Add update profile
+13. Add logging
+14. Use spring native
+    

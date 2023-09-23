@@ -5,4 +5,5 @@
 4. Add unit tests
 5. Add logging
 6. Use spring native
+7. Social media login
     

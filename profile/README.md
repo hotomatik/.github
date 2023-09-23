@@ -28,12 +28,14 @@ create database hotomatik_user;
 \d+
 
 ## TODO
-1. Add update profile
-2. Change password
-3. Email sending (registration, password-reset)
-4. SMS Sending (OTP)
-5. Add backend validation
-6. Add unit tests
-7. Add logging
-8. Use spring native
+1. Include JWT in auth.interceptor
+2. Add backend spring security
+3. Add update profile
+4. Change password
+5. Email sending (registration, password-reset)
+6. SMS Sending (OTP)
+7. Add backend validation
+8. Add unit tests
+9. Add logging
+10. Use spring native
     

@@ -15,7 +15,8 @@
 6. Payment Integration
  
 ## Potential Projects
-1. Animal Genetics Asia
-2. Affiliate Program
-3. Queueing Notification
+1. (RJ) Animal Genetics Asia
+2. (Nikki) Affiliate Program
+3. (Erwin) Queueing Notification
+4. (Pat) Airbnb
 

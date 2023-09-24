@@ -9,11 +9,11 @@
 
 # Future Features
 1. Social Media Login
-2. Ticketing System
-3. Messaging System
-4. SMS Sending
-5. Payment Integration
-6. Authenticator OTP
+2. SMS Sending
+3. Authenticator OTP
+4. Ticketing System
+5. Messaging System
+6. Payment Integration
  
 ## Potential Projects
 1. Animal Genetics Asia

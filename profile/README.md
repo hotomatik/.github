@@ -1,5 +1,5 @@
 ## TODO
-1. Email sending (password-reset)
+1. Email sending mailgun template (password-reset)
 2. Fix h2 security
 3. Add backend validation
 4. Add unit tests

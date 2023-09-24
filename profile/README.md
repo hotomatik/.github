@@ -1,9 +1,10 @@
 ## TODO
-1. Add backend validation
-2. Add unit tests
-3. Add logging
-4. Use spring native
-5. Add better UI auto-focus, entry-key-press, loading, error message handling
+1. Fix registration confirmation failure handler
+2. Add backend validation
+3. Add unit tests
+4. Add logging
+5. Use spring native
+6. Add UI validation
 
 # Future Features
 1. Social Media Login

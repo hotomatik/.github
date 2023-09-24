@@ -5,6 +5,7 @@
 4. Add unit tests
 5. Add logging
 6. Use spring native
+7. Add better UI loading and error message handling
 
 # Future Features
 1. Social Media Login

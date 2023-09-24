@@ -5,5 +5,14 @@
 4. Add unit tests
 5. Add logging
 6. Use spring native
-7. Social media login
-    
+
+# Future Features
+1. Social Media Login
+2. Ticketing System
+3. Messaging System
+ 
+## Potential Projects
+1. Animal Genetics Asia
+2. Affiliate Program
+3. Queueing Notification
+4. 

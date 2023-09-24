@@ -6,7 +6,7 @@
 5. Use spring native
 6. Add UI validation
 
-# Future Features
+## Future Features
 1. Social Media Login
 2. SMS Sending
 3. Authenticator OTP

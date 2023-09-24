@@ -1,9 +1,10 @@
 ## TODO
-1. Email sending (registration, password-reset)
-2. Add backend validation
-3. Add unit tests
-4. Add logging
-5. Use spring native
+1. Email sending (password-reset)
+2. Fix h2 security
+3. Add backend validation
+4. Add unit tests
+5. Add logging
+6. Use spring native
 
 # Future Features
 1. Social Media Login

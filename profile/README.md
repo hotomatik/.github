@@ -1,10 +1,9 @@
 ## TODO
-1. Fix h2 security
-2. Add backend validation
-3. Add unit tests
-4. Add logging
-5. Use spring native
-6. Add better UI loading and error message handling
+1. Add backend validation
+2. Add unit tests
+3. Add logging
+4. Use spring native
+5. Add better UI loading and error message handling
 
 # Future Features
 1. Social Media Login

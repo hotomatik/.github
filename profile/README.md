@@ -1,10 +1,9 @@
 ## TODO
-1. Fix registration confirmation failure handler
-2. Add backend validation
+1. Add backend validation
+2. Add UI validation
 3. Add unit tests
 4. Add logging
 5. Use spring native
-6. Add UI validation
 
 ## Future Features
 1. Social Media Login

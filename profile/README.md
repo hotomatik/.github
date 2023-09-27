@@ -1,8 +1,8 @@
 ## TODO
-1. Add UI validation
-2. Add unit tests
-3. Add logging
-4. Use spring native
+1. Add unit tests
+2. Add logging
+3. Use spring native
+4. Add UI validation
 
 ## Future Features
 1. Social Media Login

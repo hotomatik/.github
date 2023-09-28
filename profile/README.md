@@ -1,8 +1,14 @@
 ## TODO
 1. Add unit tests
-2. Add logging
-3. Use spring native
-4. Add UI validation
+   - Service unit tests
+   - Validation unit tests
+   - Authorization unit tests
+   - Repository unit tests
+   - Feature tests
+2. Review ProblemDetail usage for detailed error messages
+3. Add logging
+4. Use spring native
+5. Add UI validation
 
 ## Future Features
 1. Social Media Login

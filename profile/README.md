@@ -1,8 +1,8 @@
 ## TODO
-1. Add unit tests
-   - Service unit tests
-   - Validation unit tests
-   - Authorization unit tests
+1. Add tests
+   - Integation Tests
+      - Validation unit tests
+      - Authorization unit tests
    - Repository unit tests
    - Feature tests
 2. Review ProblemDetail usage for detailed error messages

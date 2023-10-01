@@ -3,7 +3,6 @@
    - Integation Tests
       - Validation unit tests
       - Authorization unit tests
-   - Repository unit tests
    - Feature tests
 2. Review ProblemDetail usage for detailed error messages
 3. Add logging

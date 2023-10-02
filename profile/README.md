@@ -9,12 +9,13 @@
 5. Add UI validation
 
 ## Future Features
-1. Social Media Login
-2. SMS Sending
-3. Authenticator OTP
-4. Ticketing System
-5. Messaging System
-6. Payment Integration
+1. Roles
+2. Social Media Login
+3. SMS Sending
+4. Authenticator OTP
+5. Ticketing System
+6. Messaging System
+7. Payment Integration
  
 ## Potential Projects
 1. (RJ) Animal Genetics Asia

@@ -1,12 +1,8 @@
 ## TODO
-1. Add tests
-   - Integation Tests
-      - Validation unit tests
-      - Authorization unit tests
-2. Review ProblemDetail usage for detailed error messages
-3. Add logging
-4. Use spring native
-5. Add UI validation
+1. Review ProblemDetail usage for detailed error messages
+2. Add logging
+3. Use spring native
+4. Add UI validation
 
 ## Future Features
 1. Roles

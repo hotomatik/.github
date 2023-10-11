@@ -9,6 +9,11 @@
 4. Ticketing System
 5. Messaging System
 6. Payment Integration
+7. Android app
+8. iOS app
+9. Flutter app
+10. React (web) app
+11. React native app
  
 ## Potential Projects
 1. (RJ) Animal Genetics Asia

@@ -1,6 +1,3 @@
-## TODO
-1. Add roles in JWT token
-
 ## Future Features
 1. Social Media Login
 2. SMS Sending

@@ -1,7 +1,6 @@
 ## TODO
-1. Add logging
-2. Add UI validation
-3. Add missing ui-service-call error handling
+1. Add UI validation
+2. Add missing ui-service-call error handling
 
 ## Future Features
 1. Roles

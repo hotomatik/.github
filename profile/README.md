@@ -1,8 +1,7 @@
 ## TODO
 1. Add logging
-2. Use spring native
-3. Add UI validation
-4. Add missing ui-service-call error handling
+2. Add UI validation
+3. Add missing ui-service-call error handling
 
 ## Future Features
 1. Roles

@@ -1,6 +1,5 @@
 ## TODO
-1. Add missing ui-service-call error handling
-2. Roles
+1. Roles
 
 ## Future Features
 1. Social Media Login

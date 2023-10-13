@@ -1,7 +1,5 @@
 ## TODO
 1. UI Styling
-   - Registration Confirmation Page
-   - Forgot Password Page
    - Password Reset Page
    - Home Page
    - Profile Page

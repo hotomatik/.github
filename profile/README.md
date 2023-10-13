@@ -20,10 +20,12 @@
 9. Flutter app
 10. React (web) app
 11. React native app
+12. Ads integration
  
 ## Potential Projects
 1. (RJ) Animal Genetics Asia
 2. (Nikki) Affiliate Program
 3. (Erwin) Queueing Notification
 4. (Pat) Airbnb
+5. (Jester) Centralized loyalty points
 

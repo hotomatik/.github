@@ -1,3 +1,14 @@
+## TODO
+1. UI Styling
+   - Registration Page
+   - Registration Confirmation Page
+   - Forgot Password Page
+   - Password Reset Page
+   - Home Page
+   - Profile Page
+   - Not Found Page 
+   
+
 ## Future Features
 1. Social Media Login
 2. SMS Sending

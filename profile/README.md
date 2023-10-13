@@ -1,6 +1,5 @@
 ## TODO
 1. UI Styling
-   - Password Reset Page
    - Home Page
    - Profile Page
    - Not Found Page 

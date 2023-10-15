@@ -1,20 +1,21 @@
 ## TODO
-1. UI Styling
-   - Profile Page
+1. Social Media Login
+  - Google
+  - Facebook
+
 
 ## Future Features
-1. Social Media Login
-2. SMS Sending
-3. Authenticator OTP
-4. Ticketing System
-5. Messaging System
-6. Payment Integration
-7. Android app
-8. iOS app
-9. Flutter app
-10. React (web) app
-11. React native app
-12. Ads integration
+1. SMS Sending
+2. Authenticator OTP
+3. Ticketing System
+4. Messaging System
+5. Payment Integration
+6. Android app
+7. iOS app
+8. Flutter app
+9. React (web) app
+10. React native app
+11. Ads integration
  
 ## Potential Projects
 1. (RJ) Animal Genetics Asia

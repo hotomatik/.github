@@ -1,9 +1,6 @@
 ## TODO
 1. UI Styling
-   - Home Page
    - Profile Page
-   - Not Found Page 
-   
 
 ## Future Features
 1. Social Media Login

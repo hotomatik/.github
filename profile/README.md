@@ -1,8 +1,8 @@
 ## TODO
-1. Social Media Login
+1. Change birth date and phone number from mandatory to optional
+2. Social Media Login
   - Google
   - Facebook
-
 
 ## Future Features
 1. SMS Sending
